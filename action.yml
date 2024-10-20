@@ -1,0 +1,11 @@
+name: ESM Test Action
+description: ESM Test Action
+
+author: luxass
+branding:
+  color: purple
+  icon: package
+
+runs:
+  using: node20
+  main: index.js
